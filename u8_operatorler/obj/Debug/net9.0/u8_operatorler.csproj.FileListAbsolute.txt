@@ -1,0 +1,15 @@
+C:\Users\omerf\OneDrive\Masaüstü\btk\u8_operatorler\bin\Debug\net9.0\u8_operatorler.exe
+C:\Users\omerf\OneDrive\Masaüstü\btk\u8_operatorler\bin\Debug\net9.0\u8_operatorler.deps.json
+C:\Users\omerf\OneDrive\Masaüstü\btk\u8_operatorler\bin\Debug\net9.0\u8_operatorler.runtimeconfig.json
+C:\Users\omerf\OneDrive\Masaüstü\btk\u8_operatorler\bin\Debug\net9.0\u8_operatorler.dll
+C:\Users\omerf\OneDrive\Masaüstü\btk\u8_operatorler\bin\Debug\net9.0\u8_operatorler.pdb
+C:\Users\omerf\OneDrive\Masaüstü\btk\u8_operatorler\obj\Debug\net9.0\u8_operatorler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerf\OneDrive\Masaüstü\btk\u8_operatorler\obj\Debug\net9.0\u8_operatorler.AssemblyInfoInputs.cache
+C:\Users\omerf\OneDrive\Masaüstü\btk\u8_operatorler\obj\Debug\net9.0\u8_operatorler.AssemblyInfo.cs
+C:\Users\omerf\OneDrive\Masaüstü\btk\u8_operatorler\obj\Debug\net9.0\u8_operatorler.csproj.CoreCompileInputs.cache
+C:\Users\omerf\OneDrive\Masaüstü\btk\u8_operatorler\obj\Debug\net9.0\u8_operatorler.sourcelink.json
+C:\Users\omerf\OneDrive\Masaüstü\btk\u8_operatorler\obj\Debug\net9.0\u8_operatorler.dll
+C:\Users\omerf\OneDrive\Masaüstü\btk\u8_operatorler\obj\Debug\net9.0\refint\u8_operatorler.dll
+C:\Users\omerf\OneDrive\Masaüstü\btk\u8_operatorler\obj\Debug\net9.0\u8_operatorler.pdb
+C:\Users\omerf\OneDrive\Masaüstü\btk\u8_operatorler\obj\Debug\net9.0\u8_operatorler.genruntimeconfig.cache
+C:\Users\omerf\OneDrive\Masaüstü\btk\u8_operatorler\obj\Debug\net9.0\ref\u8_operatorler.dll

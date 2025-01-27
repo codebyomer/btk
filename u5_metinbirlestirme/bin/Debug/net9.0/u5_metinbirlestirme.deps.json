@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "u5_metinbirlestirme/1.0.0": {
+        "runtime": {
+          "u5_metinbirlestirme.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "u5_metinbirlestirme/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\omerf\OneDrive\Masaüstü\btk\u7_not_ortalama\bin\Debug\net9.0\u7_not_ortalama.exe
+C:\Users\omerf\OneDrive\Masaüstü\btk\u7_not_ortalama\bin\Debug\net9.0\u7_not_ortalama.deps.json
+C:\Users\omerf\OneDrive\Masaüstü\btk\u7_not_ortalama\bin\Debug\net9.0\u7_not_ortalama.runtimeconfig.json
+C:\Users\omerf\OneDrive\Masaüstü\btk\u7_not_ortalama\bin\Debug\net9.0\u7_not_ortalama.dll
+C:\Users\omerf\OneDrive\Masaüstü\btk\u7_not_ortalama\bin\Debug\net9.0\u7_not_ortalama.pdb
+C:\Users\omerf\OneDrive\Masaüstü\btk\u7_not_ortalama\obj\Debug\net9.0\u7_not_ortalama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerf\OneDrive\Masaüstü\btk\u7_not_ortalama\obj\Debug\net9.0\u7_not_ortalama.AssemblyInfoInputs.cache
+C:\Users\omerf\OneDrive\Masaüstü\btk\u7_not_ortalama\obj\Debug\net9.0\u7_not_ortalama.AssemblyInfo.cs
+C:\Users\omerf\OneDrive\Masaüstü\btk\u7_not_ortalama\obj\Debug\net9.0\u7_not_ortalama.csproj.CoreCompileInputs.cache
+C:\Users\omerf\OneDrive\Masaüstü\btk\u7_not_ortalama\obj\Debug\net9.0\u7_not_ortalama.sourcelink.json
+C:\Users\omerf\OneDrive\Masaüstü\btk\u7_not_ortalama\obj\Debug\net9.0\u7_not_ortalama.dll
+C:\Users\omerf\OneDrive\Masaüstü\btk\u7_not_ortalama\obj\Debug\net9.0\refint\u7_not_ortalama.dll
+C:\Users\omerf\OneDrive\Masaüstü\btk\u7_not_ortalama\obj\Debug\net9.0\u7_not_ortalama.pdb
+C:\Users\omerf\OneDrive\Masaüstü\btk\u7_not_ortalama\obj\Debug\net9.0\u7_not_ortalama.genruntimeconfig.cache
+C:\Users\omerf\OneDrive\Masaüstü\btk\u7_not_ortalama\obj\Debug\net9.0\ref\u7_not_ortalama.dll

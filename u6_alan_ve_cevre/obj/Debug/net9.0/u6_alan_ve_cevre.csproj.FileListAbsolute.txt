@@ -1,0 +1,15 @@
+C:\Users\omerf\OneDrive\Masaüstü\btk\u6_alan_ve_cevre\bin\Debug\net9.0\u6_alan_ve_cevre.exe
+C:\Users\omerf\OneDrive\Masaüstü\btk\u6_alan_ve_cevre\bin\Debug\net9.0\u6_alan_ve_cevre.deps.json
+C:\Users\omerf\OneDrive\Masaüstü\btk\u6_alan_ve_cevre\bin\Debug\net9.0\u6_alan_ve_cevre.runtimeconfig.json
+C:\Users\omerf\OneDrive\Masaüstü\btk\u6_alan_ve_cevre\bin\Debug\net9.0\u6_alan_ve_cevre.dll
+C:\Users\omerf\OneDrive\Masaüstü\btk\u6_alan_ve_cevre\bin\Debug\net9.0\u6_alan_ve_cevre.pdb
+C:\Users\omerf\OneDrive\Masaüstü\btk\u6_alan_ve_cevre\obj\Debug\net9.0\u6_alan_ve_cevre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerf\OneDrive\Masaüstü\btk\u6_alan_ve_cevre\obj\Debug\net9.0\u6_alan_ve_cevre.AssemblyInfoInputs.cache
+C:\Users\omerf\OneDrive\Masaüstü\btk\u6_alan_ve_cevre\obj\Debug\net9.0\u6_alan_ve_cevre.AssemblyInfo.cs
+C:\Users\omerf\OneDrive\Masaüstü\btk\u6_alan_ve_cevre\obj\Debug\net9.0\u6_alan_ve_cevre.csproj.CoreCompileInputs.cache
+C:\Users\omerf\OneDrive\Masaüstü\btk\u6_alan_ve_cevre\obj\Debug\net9.0\u6_alan_ve_cevre.sourcelink.json
+C:\Users\omerf\OneDrive\Masaüstü\btk\u6_alan_ve_cevre\obj\Debug\net9.0\u6_alan_ve_cevre.dll
+C:\Users\omerf\OneDrive\Masaüstü\btk\u6_alan_ve_cevre\obj\Debug\net9.0\refint\u6_alan_ve_cevre.dll
+C:\Users\omerf\OneDrive\Masaüstü\btk\u6_alan_ve_cevre\obj\Debug\net9.0\u6_alan_ve_cevre.pdb
+C:\Users\omerf\OneDrive\Masaüstü\btk\u6_alan_ve_cevre\obj\Debug\net9.0\u6_alan_ve_cevre.genruntimeconfig.cache
+C:\Users\omerf\OneDrive\Masaüstü\btk\u6_alan_ve_cevre\obj\Debug\net9.0\ref\u6_alan_ve_cevre.dll

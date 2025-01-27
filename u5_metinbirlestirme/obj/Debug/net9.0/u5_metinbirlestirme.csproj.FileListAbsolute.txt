@@ -1,0 +1,15 @@
+C:\Users\omerf\OneDrive\Masaüstü\btk\u5_metinbirlestirme\bin\Debug\net9.0\u5_metinbirlestirme.exe
+C:\Users\omerf\OneDrive\Masaüstü\btk\u5_metinbirlestirme\bin\Debug\net9.0\u5_metinbirlestirme.deps.json
+C:\Users\omerf\OneDrive\Masaüstü\btk\u5_metinbirlestirme\bin\Debug\net9.0\u5_metinbirlestirme.runtimeconfig.json
+C:\Users\omerf\OneDrive\Masaüstü\btk\u5_metinbirlestirme\bin\Debug\net9.0\u5_metinbirlestirme.dll
+C:\Users\omerf\OneDrive\Masaüstü\btk\u5_metinbirlestirme\bin\Debug\net9.0\u5_metinbirlestirme.pdb
+C:\Users\omerf\OneDrive\Masaüstü\btk\u5_metinbirlestirme\obj\Debug\net9.0\u5_metinbirlestirme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerf\OneDrive\Masaüstü\btk\u5_metinbirlestirme\obj\Debug\net9.0\u5_metinbirlestirme.AssemblyInfoInputs.cache
+C:\Users\omerf\OneDrive\Masaüstü\btk\u5_metinbirlestirme\obj\Debug\net9.0\u5_metinbirlestirme.AssemblyInfo.cs
+C:\Users\omerf\OneDrive\Masaüstü\btk\u5_metinbirlestirme\obj\Debug\net9.0\u5_metinbirlestirme.csproj.CoreCompileInputs.cache
+C:\Users\omerf\OneDrive\Masaüstü\btk\u5_metinbirlestirme\obj\Debug\net9.0\u5_metinbirlestirme.sourcelink.json
+C:\Users\omerf\OneDrive\Masaüstü\btk\u5_metinbirlestirme\obj\Debug\net9.0\u5_metinbirlestirme.dll
+C:\Users\omerf\OneDrive\Masaüstü\btk\u5_metinbirlestirme\obj\Debug\net9.0\refint\u5_metinbirlestirme.dll
+C:\Users\omerf\OneDrive\Masaüstü\btk\u5_metinbirlestirme\obj\Debug\net9.0\u5_metinbirlestirme.pdb
+C:\Users\omerf\OneDrive\Masaüstü\btk\u5_metinbirlestirme\obj\Debug\net9.0\u5_metinbirlestirme.genruntimeconfig.cache
+C:\Users\omerf\OneDrive\Masaüstü\btk\u5_metinbirlestirme\obj\Debug\net9.0\ref\u5_metinbirlestirme.dll

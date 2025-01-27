@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("u1_merhaba")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f264b4f51642a575234337c3f2e7c4fa3e6a3f0f")]
 [assembly: System.Reflection.AssemblyProductAttribute("u1_merhaba")]
 [assembly: System.Reflection.AssemblyTitleAttribute("u1_merhaba")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

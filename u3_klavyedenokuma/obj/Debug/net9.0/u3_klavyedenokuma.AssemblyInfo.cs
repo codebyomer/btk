@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("u3_klavyedenokuma")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01f20329311e31012aa428d0d9d2bac5084b1655")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f264b4f51642a575234337c3f2e7c4fa3e6a3f0f")]
 [assembly: System.Reflection.AssemblyProductAttribute("u3_klavyedenokuma")]
 [assembly: System.Reflection.AssemblyTitleAttribute("u3_klavyedenokuma")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

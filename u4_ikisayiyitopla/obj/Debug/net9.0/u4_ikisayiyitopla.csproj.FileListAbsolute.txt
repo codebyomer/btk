@@ -1,0 +1,15 @@
+C:\Users\omerf\OneDrive\Masaüstü\btk\u4_ikisayiyitopla\bin\Debug\net9.0\u4_ikisayiyitopla.exe
+C:\Users\omerf\OneDrive\Masaüstü\btk\u4_ikisayiyitopla\bin\Debug\net9.0\u4_ikisayiyitopla.deps.json
+C:\Users\omerf\OneDrive\Masaüstü\btk\u4_ikisayiyitopla\bin\Debug\net9.0\u4_ikisayiyitopla.runtimeconfig.json
+C:\Users\omerf\OneDrive\Masaüstü\btk\u4_ikisayiyitopla\bin\Debug\net9.0\u4_ikisayiyitopla.dll
+C:\Users\omerf\OneDrive\Masaüstü\btk\u4_ikisayiyitopla\bin\Debug\net9.0\u4_ikisayiyitopla.pdb
+C:\Users\omerf\OneDrive\Masaüstü\btk\u4_ikisayiyitopla\obj\Debug\net9.0\u4_ikisayiyitopla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerf\OneDrive\Masaüstü\btk\u4_ikisayiyitopla\obj\Debug\net9.0\u4_ikisayiyitopla.AssemblyInfoInputs.cache
+C:\Users\omerf\OneDrive\Masaüstü\btk\u4_ikisayiyitopla\obj\Debug\net9.0\u4_ikisayiyitopla.AssemblyInfo.cs
+C:\Users\omerf\OneDrive\Masaüstü\btk\u4_ikisayiyitopla\obj\Debug\net9.0\u4_ikisayiyitopla.csproj.CoreCompileInputs.cache
+C:\Users\omerf\OneDrive\Masaüstü\btk\u4_ikisayiyitopla\obj\Debug\net9.0\u4_ikisayiyitopla.sourcelink.json
+C:\Users\omerf\OneDrive\Masaüstü\btk\u4_ikisayiyitopla\obj\Debug\net9.0\u4_ikisayiyitopla.dll
+C:\Users\omerf\OneDrive\Masaüstü\btk\u4_ikisayiyitopla\obj\Debug\net9.0\refint\u4_ikisayiyitopla.dll
+C:\Users\omerf\OneDrive\Masaüstü\btk\u4_ikisayiyitopla\obj\Debug\net9.0\u4_ikisayiyitopla.pdb
+C:\Users\omerf\OneDrive\Masaüstü\btk\u4_ikisayiyitopla\obj\Debug\net9.0\u4_ikisayiyitopla.genruntimeconfig.cache
+C:\Users\omerf\OneDrive\Masaüstü\btk\u4_ikisayiyitopla\obj\Debug\net9.0\ref\u4_ikisayiyitopla.dll
