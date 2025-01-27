@@ -1,0 +1,15 @@
+C:\Users\omerf\OneDrive\Masaüstü\btk\u3_klavyedenokuma\bin\Debug\net9.0\u3_klavyedenokuma.exe
+C:\Users\omerf\OneDrive\Masaüstü\btk\u3_klavyedenokuma\bin\Debug\net9.0\u3_klavyedenokuma.deps.json
+C:\Users\omerf\OneDrive\Masaüstü\btk\u3_klavyedenokuma\bin\Debug\net9.0\u3_klavyedenokuma.runtimeconfig.json
+C:\Users\omerf\OneDrive\Masaüstü\btk\u3_klavyedenokuma\bin\Debug\net9.0\u3_klavyedenokuma.dll
+C:\Users\omerf\OneDrive\Masaüstü\btk\u3_klavyedenokuma\bin\Debug\net9.0\u3_klavyedenokuma.pdb
+C:\Users\omerf\OneDrive\Masaüstü\btk\u3_klavyedenokuma\obj\Debug\net9.0\u3_klavyedenokuma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerf\OneDrive\Masaüstü\btk\u3_klavyedenokuma\obj\Debug\net9.0\u3_klavyedenokuma.AssemblyInfoInputs.cache
+C:\Users\omerf\OneDrive\Masaüstü\btk\u3_klavyedenokuma\obj\Debug\net9.0\u3_klavyedenokuma.AssemblyInfo.cs
+C:\Users\omerf\OneDrive\Masaüstü\btk\u3_klavyedenokuma\obj\Debug\net9.0\u3_klavyedenokuma.csproj.CoreCompileInputs.cache
+C:\Users\omerf\OneDrive\Masaüstü\btk\u3_klavyedenokuma\obj\Debug\net9.0\u3_klavyedenokuma.sourcelink.json
+C:\Users\omerf\OneDrive\Masaüstü\btk\u3_klavyedenokuma\obj\Debug\net9.0\u3_klavyedenokuma.dll
+C:\Users\omerf\OneDrive\Masaüstü\btk\u3_klavyedenokuma\obj\Debug\net9.0\refint\u3_klavyedenokuma.dll
+C:\Users\omerf\OneDrive\Masaüstü\btk\u3_klavyedenokuma\obj\Debug\net9.0\u3_klavyedenokuma.pdb
+C:\Users\omerf\OneDrive\Masaüstü\btk\u3_klavyedenokuma\obj\Debug\net9.0\u3_klavyedenokuma.genruntimeconfig.cache
+C:\Users\omerf\OneDrive\Masaüstü\btk\u3_klavyedenokuma\obj\Debug\net9.0\ref\u3_klavyedenokuma.dll
