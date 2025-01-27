@@ -1,0 +1,14 @@
+C:\Users\omerf\OneDrive\Masaüstü\btk\u2_degiskenler\bin\Debug\net9.0\u2_degiskenler.exe
+C:\Users\omerf\OneDrive\Masaüstü\btk\u2_degiskenler\bin\Debug\net9.0\u2_degiskenler.deps.json
+C:\Users\omerf\OneDrive\Masaüstü\btk\u2_degiskenler\bin\Debug\net9.0\u2_degiskenler.runtimeconfig.json
+C:\Users\omerf\OneDrive\Masaüstü\btk\u2_degiskenler\bin\Debug\net9.0\u2_degiskenler.dll
+C:\Users\omerf\OneDrive\Masaüstü\btk\u2_degiskenler\bin\Debug\net9.0\u2_degiskenler.pdb
+C:\Users\omerf\OneDrive\Masaüstü\btk\u2_degiskenler\obj\Debug\net9.0\u2_degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerf\OneDrive\Masaüstü\btk\u2_degiskenler\obj\Debug\net9.0\u2_degiskenler.AssemblyInfoInputs.cache
+C:\Users\omerf\OneDrive\Masaüstü\btk\u2_degiskenler\obj\Debug\net9.0\u2_degiskenler.AssemblyInfo.cs
+C:\Users\omerf\OneDrive\Masaüstü\btk\u2_degiskenler\obj\Debug\net9.0\u2_degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\omerf\OneDrive\Masaüstü\btk\u2_degiskenler\obj\Debug\net9.0\u2_degiskenler.dll
+C:\Users\omerf\OneDrive\Masaüstü\btk\u2_degiskenler\obj\Debug\net9.0\refint\u2_degiskenler.dll
+C:\Users\omerf\OneDrive\Masaüstü\btk\u2_degiskenler\obj\Debug\net9.0\u2_degiskenler.pdb
+C:\Users\omerf\OneDrive\Masaüstü\btk\u2_degiskenler\obj\Debug\net9.0\u2_degiskenler.genruntimeconfig.cache
+C:\Users\omerf\OneDrive\Masaüstü\btk\u2_degiskenler\obj\Debug\net9.0\ref\u2_degiskenler.dll

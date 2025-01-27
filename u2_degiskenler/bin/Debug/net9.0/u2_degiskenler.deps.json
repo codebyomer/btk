@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "u2_degiskenler/1.0.0": {
+        "runtime": {
+          "u2_degiskenler.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "u2_degiskenler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

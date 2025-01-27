@@ -1,0 +1,14 @@
+C:\Users\omerf\OneDrive\Masaüstü\btk\u1_merhaba\bin\Debug\net9.0\u1_merhaba.exe
+C:\Users\omerf\OneDrive\Masaüstü\btk\u1_merhaba\bin\Debug\net9.0\u1_merhaba.deps.json
+C:\Users\omerf\OneDrive\Masaüstü\btk\u1_merhaba\bin\Debug\net9.0\u1_merhaba.runtimeconfig.json
+C:\Users\omerf\OneDrive\Masaüstü\btk\u1_merhaba\bin\Debug\net9.0\u1_merhaba.dll
+C:\Users\omerf\OneDrive\Masaüstü\btk\u1_merhaba\bin\Debug\net9.0\u1_merhaba.pdb
+C:\Users\omerf\OneDrive\Masaüstü\btk\u1_merhaba\obj\Debug\net9.0\u1_merhaba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerf\OneDrive\Masaüstü\btk\u1_merhaba\obj\Debug\net9.0\u1_merhaba.AssemblyInfoInputs.cache
+C:\Users\omerf\OneDrive\Masaüstü\btk\u1_merhaba\obj\Debug\net9.0\u1_merhaba.AssemblyInfo.cs
+C:\Users\omerf\OneDrive\Masaüstü\btk\u1_merhaba\obj\Debug\net9.0\u1_merhaba.csproj.CoreCompileInputs.cache
+C:\Users\omerf\OneDrive\Masaüstü\btk\u1_merhaba\obj\Debug\net9.0\u1_merhaba.dll
+C:\Users\omerf\OneDrive\Masaüstü\btk\u1_merhaba\obj\Debug\net9.0\refint\u1_merhaba.dll
+C:\Users\omerf\OneDrive\Masaüstü\btk\u1_merhaba\obj\Debug\net9.0\u1_merhaba.pdb
+C:\Users\omerf\OneDrive\Masaüstü\btk\u1_merhaba\obj\Debug\net9.0\u1_merhaba.genruntimeconfig.cache
+C:\Users\omerf\OneDrive\Masaüstü\btk\u1_merhaba\obj\Debug\net9.0\ref\u1_merhaba.dll
