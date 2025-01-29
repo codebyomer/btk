@@ -3,6 +3,12 @@
 //bilemediğinde if ile kontrol edip yönlendirme yapmalı
 //hakkı bittiğinde döngüden çıkılmalı
 //bilirse döngü sona ermeli ve tebrik etmeli
+//tekrar oynamak ister misiniz diye sorsun
+//kullanıcı e/E girer ise oyun tekrar başlasın
+
+char cevap;
+do
+{
 int sayi = new Random().Next(100);
 int hak = 5;//5 hakkın var
 Console.WriteLine("Tutulan sayi: "+ sayi);
@@ -34,3 +40,11 @@ do
     }
 
 } while(true);
+
+
+    
+    Console.WriteLine("Tekrar oyanamak ister misiniz(e/E)?");
+    cevap = Convert.ToChar(Console.ReadLine());
+
+} while(cevap == 'E' || cevap == 'e');
+
