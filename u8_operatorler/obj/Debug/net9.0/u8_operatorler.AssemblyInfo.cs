@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("u8_operatorler")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79e611e3656a531c0d4d0db5aacaa006e39883cf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7076f3000ede3ed1175b3b603cf1fed4e49ded1")]
 [assembly: System.Reflection.AssemblyProductAttribute("u8_operatorler")]
 [assembly: System.Reflection.AssemblyTitleAttribute("u8_operatorler")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
